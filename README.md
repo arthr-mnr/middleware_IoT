@@ -49,4 +49,6 @@ Crée un fichier `.env` dans `mcp-client-python/` :
 API_KEY=
 ```
 Ajoute .env à ton .gitignore :
+```
 bashecho ".env" >> .gitignore
+```
